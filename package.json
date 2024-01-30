@@ -1,0 +1,14 @@
+{
+	"name": "net.twinnovations.unity.singletons",
+	"displayName": "TWI Singletons",
+	"changelogUrl": "https://unity.twinnovations.net/packages/singletons/changes.html",
+	"documentationUrl": "https://unity.twinnovations.net/packages/singletons",
+	"version": "0.0.1",
+	"unity": "2021.3",
+	"unityRelease": "33f1",
+	"author": {
+		"name": "TW Innovations",
+		"email": "support+unity@twinnovations.net",
+		"url": "unity.twinnovations.net"
+	}
+}
